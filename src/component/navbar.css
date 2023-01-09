@@ -1,0 +1,29 @@
+nav{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    color:white;
+    background-color: black;
+    height:55px;
+}
+
+  
+.nav-side{
+    display:flex;
+    justify-content:space-around;  
+}
+
+.inside-nav-up{
+    margin-left:50px;
+    text-decoration:none;
+    font: weight 200px;
+    color:white;
+    font-size:20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+.logo{
+    font-family: 'Inspiration', cursive;
+    font-size:35px;
+    margin-left:10px;
+}
